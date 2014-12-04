@@ -7,4 +7,3 @@ RUN wget -O jrebel.zip https://dl.zeroturnaround.com/?token=0b3f4813a0861b066b0c
     unzip jrebel.zip && \
     mv jrebel /opt/jrebel && \
     rm jrebel.zip
-
