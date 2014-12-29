@@ -1,4 +1,4 @@
-FROM n3ziniuka5/tomcat:8.0.15-JDK8
+FROM n3ziniuka5/tomcat:8.0.15-JDK8u25
 MAINTAINER Laurynas Tretjakovas "laurynas.tretjakovas@gmail.com"
 
 COPY setenv.sh /opt/tomcat/bin/
