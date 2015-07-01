@@ -1,4 +1,4 @@
-FROM emtrack/tomcat:8.0.22-JDK8u45
+FROM emtrack/tomcat:8.0.23-JDK8u45
 
 COPY setenv.sh /opt/tomcat/bin/
 
